@@ -26,3 +26,19 @@ raw.githubusercontentS.com
 即可，例如：
 
 https://raw.githubusercontents.com/Soar1989/tv/main/tv.json
+
+https://raw.githubusercontents.com/Soar1989/tv/main/tv_v2.json
+
+https://raw.githubusercontents.com/Soar1989/tv/main/tv_v3.json
+
+https://raw.githubusercontents.com/Soar1989/tv/main/tv_v4.json
+
+https://raw.githubusercontents.com/Soar1989/tv/main/tv_v5.json
+
+https://raw.githubusercontents.com/Soar1989/tv/main/tv_v6.json
+
+https://raw.githubusercontents.com/Soar1989/tv/main/tv_v7.json
+
+https://raw.githubusercontents.com/Soar1989/tv/main/tv_v8.json
+
+https://raw.githubusercontents.com/Soar1989/tv/main/tv_9.json
