@@ -1,6 +1,8 @@
 # tv
 https://cdn.jsdelivr.net/gh/Soar1989/tv/tv.json
 
+https://cdn.jsdelivr.net/gh/Soar1989/tv/tv_v1.json
+
 https://cdn.jsdelivr.net/gh/Soar1989/tv/tv_v2.json
 
 https://cdn.jsdelivr.net/gh/Soar1989/tv/tv_v3.json
@@ -26,6 +28,8 @@ raw.githubusercontentS.com
 即可，例如：
 
 https://raw.githubusercontents.com/Soar1989/tv/main/tv.json
+
+https://raw.githubusercontents.com/Soar1989/tv/main/tv_v1.json
 
 https://raw.githubusercontents.com/Soar1989/tv/main/tv_v2.json
 
