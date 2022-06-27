@@ -19,6 +19,8 @@ https://cdn.jsdelivr.net/gh/Soar1989/tv/tv_v8.json
 
 https://cdn.jsdelivr.net/gh/Soar1989/tv/tv_v9.json
 
+https://cdn.jsdelivr.net/gh/Soar1989/tv/tv_v10.json
+
 
 将原网址
 raw.githubusercontent.com
@@ -46,3 +48,5 @@ https://raw.githubusercontents.com/Soar1989/tv/main/tv_v7.json
 https://raw.githubusercontents.com/Soar1989/tv/main/tv_v8.json
 
 https://raw.githubusercontents.com/Soar1989/tv/main/tv_9.json
+
+https://raw.githubusercontents.com/Soar1989/tv/main/tv_10.json
