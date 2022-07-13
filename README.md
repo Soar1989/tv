@@ -62,3 +62,5 @@ https://raw.githubusercontents.com/Soar1989/tv/main/tv_v11.json
 https://raw.githubusercontents.com/Soar1989/tv/main/tv_v12.json
 
 https://raw.githubusercontents.com/Soar1989/tv/main/tv_v13.json
+
+https://gitea.com/Pandora2277/TV/raw/branch/main/Box.json
