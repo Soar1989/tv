@@ -81,7 +81,9 @@
 {"key":"天堂资源","name":"天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
 {"key":"闪电资源","name":"闪电资源","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
 {"key":"百度资源","name":"百度资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"飘花电影","name":"飘花电影","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]}
+{"key":"飘花电影","name":"飘花电影","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
+{"key": "WebDAV","name": "WebDAV","type": 3,"api": "csp_WebDAV","searchable": 1,"changeable": 0,"ext": "https://cdn.jsdelivr.net/gh/FongMi/CatVodSpider@main/json/webdav.json"},
+{"key": "AList","name": "AList","type": 3,"api": "csp_AList","searchable": 1,"changeable": 0,"ext": "https://cdn.jsdelivr.net/gh/FongMi/CatVodSpider@main/json/alist.json"}
 ],
 "parses": [{
 		"name": "Json聚合",
