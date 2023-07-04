@@ -89,7 +89,7 @@
 {"key": "AList","name": "AList","type": 3,"api": "csp_AList","searchable": 1,"changeable": 0,"ext": "https://cdn.jsdelivr.net/gh/FongMi/CatVodSpider@main/json/alist.json"},
 {"key":"影图资源","name":"影图资源(官)","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"忆梦","name":"忆梦(官)","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"drpy_js_子子影视","name":"子子影视[影视js]","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/js/子子影视.js"},
+{"key":"drpy_js_子子影视","name":"子子影视[影视js]","type":3,"api":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/lib/drpy2.min.js","ext":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/js/子子影视.js"},
 {"key":"csp_黄仓库","name":"黄仓库〔SP〕","api":"csp_Hsck","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.javsee.men/","jar":"https://ghproxy.com/https://github.com/Soar1989/tv/raw/main/jar/18.jar"},
 {"key":"drpy_js_玩偶姐姐","name":"玩偶姐姐[DRPY18]","type":3,"api":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/js/玩偶姐姐.js"},
 {"key":"Ikun资源","name":"Ikun资源(切片)","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":0,"categories":[]},
