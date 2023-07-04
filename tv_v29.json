@@ -124,7 +124,6 @@
 {"key":"drpy_js_在线之家","name":"在线之家[影视js]","type":3,"api":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/lib/drpy2.min.js","ext":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/js/在线之家.js"},
 {"key":"drpy_js_在线之家2","name":"在线之家2[影视js]","type":3,"api":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/lib/drpy2.min.js","ext":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/js/zxzjmtv.js"},
 {"key":"drpy_js_饭团电影","name":"饭团电影[影视js]","type":3,"api":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/lib/drpy2.min.js","ext":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/js/饭团.js"},
-{"key":"drpy_js_酷云七七","name":"酷云七七[影视js]","type":3,"api":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/lib/drpy2.min.js","ext":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/js/酷云77.js"},
 {"key":"drpy_js_骚火电影","name":"骚火电影[影视js]","type":3,"api":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/lib/drpy2.min.js","ext":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/js/骚火电影.js"},
 {"key":"drpy_js_回响影视","name":"回响影视[影视js]","type":3,"api":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/lib/drpy2.min.js","ext":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/js/回响影视.js"},
 {"key":"drpy_js_闪影影院","name":"闪影影院[影视js]","type":3,"api":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/lib/drpy2.min.js","ext":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/js/闪影影院.js"},
