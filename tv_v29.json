@@ -1,6 +1,6 @@
 {
-	"spider": "https://ghproxy.com/https://github.com/Soar1989/tv/raw/main/Yoursmile.jar;md5;28623CFA0E4DECAAD7CD04659A619BF5",
-	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+"spider": "https://ghproxy.com/https://github.com/Soar1989/tv/raw/main/Yoursmile.jar;md5;28623CFA0E4DECAAD7CD04659A619BF5",
+"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "sites":[
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"dr_豆瓣","name":"🔍豆瓣","type":3,"api":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/豆瓣.js"},
