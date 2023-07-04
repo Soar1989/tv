@@ -89,7 +89,7 @@
 {"key": "AList","name": "AList","type": 3,"api": "csp_AList","searchable": 1,"changeable": 0,"ext": "https://cdn.jsdelivr.net/gh/FongMi/CatVodSpider@main/json/alist.json"},
 {"key":"影图资源","name":"影图资源(官)","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"忆梦","name":"忆梦(官)","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"Ikun资源","name":"Ikun资源(切片)","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":0}
+{"key":"Ikun资源","name":"Ikun资源(切片)","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]}
 ],
 "parses": [{
 		"name": "Json聚合",
