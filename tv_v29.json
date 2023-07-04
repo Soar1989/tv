@@ -230,7 +230,7 @@
 {"key":"drpy_js_追剧达人","name":"追剧达人[影视js]","type":3,"api":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/lib/drpy2.min.js","ext":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/js/追剧达人.js"},
 {"key":"drpy_js_追剧啦儿","name":"追剧啦儿[影视js]","type":3,"api":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/lib/drpy2.min.js","ext":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/js/追剧啦.js"},
 {"key":"drpy_js_子子影视","name":"子子影视[影视js]","type":3,"api":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/lib/drpy2.min.js","ext":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/js/子子影视.js"},
-	{"key":"drpy_js_哔哩直播","name":" 哔哩[直播js]","type":3,"api":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/lib/drpy2.min.js","ext":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/js/哔哩直播.js"},
+{"key":"drpy_js_哔哩直播","name":" 哔哩[直播js]","type":3,"api":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/lib/drpy2.min.js","ext":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/js/哔哩直播.js"},
 {"key":"drpy_js_斗鱼直播","name":" 斗鱼[直播js]","type":3,"api":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/lib/drpy2.min.js","ext":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/js/斗鱼直播.js"},
 {"key":"drpy_js_虎牙直播","name":" 虎牙[直播js]","type":3,"api":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/lib/drpy2.min.js","ext":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/js/虎牙直播.js"},
 {"key":"drpy_js_JustLive","name":" JustLive[直播js]","type":3,"api":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/lib/drpy2.min.js","ext":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/js/JustLive.js"},
