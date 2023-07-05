@@ -338,13 +338,6 @@
 		"name": "OKjx嗅探",
 		"type": 0,
 		"url": "https://okjx.cc/?url="
-	}, {
-		"name": "翱翔解析",
-		"type": 0,
-		"url": "https://jx.wenping.ml/?url=",
-		"ext": {
-			"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]
-		}  
 	},
 	{"name":"365","type":0,"url":"https://chaxun.truechat365.com/?url= ","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 	{"name":"parwix稳定","type":0,"url":"https://jx.bozrc.com:4433/player/?url= ","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
