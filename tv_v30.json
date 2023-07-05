@@ -2184,6 +2184,31 @@
             "url": "Web"
         },
         {
+            "name": "Json并发",
+            "type": 2,
+            "url": "Parallel"
+        },
+        {
+            "name": "Json轮询",
+            "type": 2,
+            "url": "Sequence"
+        },
+        {
+            "name": "未知",
+            "type": 1,
+            "url": "http://106.52.218.221:88/?url="
+        },
+        {
+            "name": "playerjy/B站",
+            "type": 1,
+            "url": "https://jx.playerjy.com/?url="
+        },
+        {
+            "name": "解48",
+            "type": 1,
+            "url": "https://mgm3u8-player.com/player/DPm3u8.php?url="
+        },
+        {
             "name": "影视",
             "type": 1,
             "url": "http://json.g9.pub:66/?url=",
