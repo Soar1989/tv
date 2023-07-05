@@ -263,6 +263,7 @@
 {"key":"drpy_js_banan","name":"banan[DRPY18]","type":3,"api":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/js/banan.js"},
 {"key":"drpy_js_18av","name":"18av[DRPY18]","type":3,"api":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/js/18av.js"},
 {"key":"drpy_js_玩偶姐姐","name":"玩偶姐姐[DRPY18]","type":3,"api":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/js/玩偶姐姐.js"},
+{"key":"探探资源","name":"探探资源","type":1,"api":"https://apittzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
 {"key":"玉兔资源","name":"玉兔资源","type":1,"api":"https://apiyutu.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
 {"key":"极致资源","name":"极致资源","type":1,"api":"https://jizhiapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
 {"key":"Ikun资源","name":"Ikun资源(切片)","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":0,"categories":[]},
