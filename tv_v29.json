@@ -3,6 +3,11 @@
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "sites":[
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_QQ","name":"🐧腾讯（官）","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_MGTV","name":"🥭芒果（官）","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_IQIYI","name":"🥝爱奇艺（官）","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"youku","name":"👑优酷（官）","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/","searchable":0,"quickSearch":0,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片"]},
+{"key":"PpTV","name":"📺PPTV（官）","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/","searchable":0,"quickSearch":0,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","少儿","其他片"]},
 {"key":"dr_豆瓣","name":"🔍豆瓣","type":3,"api":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/Soar1989/tv@main/js/豆瓣.js"},
 {"key":"360","name":"💘360","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
